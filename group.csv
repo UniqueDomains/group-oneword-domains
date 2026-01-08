@@ -1096,7 +1096,7 @@ b752a342-7a41-4ab1-817e-9aa9321aa99a,ascetical.group,available,50,1,9,,,
 f4249401-bc41-41dd-adbf-803cd2d26a75,ascitic.group,available,54,1,7,,,
 a80b61f5-64fe-4428-a18f-ea2a5e43154f,ascosporic.group,available,50,1,10,,,
 64ca966a-ef87-426e-9c1a-a90713ed33b5,ascribable.group,available,45,1,10,,,
-22f059d9-f7c8-40d2-b193-7498bfc9333e,aseptic.group,available,72,3,7,,,
+22f059d9-f7c8-40d2-b193-7498bfc9333e,aseptic.group,available,72,98,7,,,
 1f0e6129-c981-4d3c-9f8b-63ca74432093,asexual.group,available,78,4,7,,,
 2835ba9e-23e6-4139-80e2-cafd95328738,asfaras.group,available,56,2,9,,,
 a64a85ca-a79e-40cb-8ac2-b69840de3ab5,ash.group,resell,66,30,3,Porkbun LLC,27/11/2024 15:15,27/11/2026 15:15
@@ -1106,7 +1106,7 @@ a64a85ca-a79e-40cb-8ac2-b69840de3ab5,ash.group,resell,66,30,3,Porkbun LLC,27/11/
 82eedf44-a176-43a8-9f13-49e9c7dedebb,ashgrey.group,available,60,2,8,,,
 fa8e54ea-4973-4edd-a4f5-3f8a9823ceb8,ashy.group,available,60,10,4,,,
 ddae39d1-f7a1-497b-a4d5-0acc73f43dc4,asia.group,resell,72,23,4,"Spaceship, Inc.",08/06/2016 16:00,08/06/2026 16:00
-30af57cd-c27d-4fff-8db9-ef6c3d50d02f,asian.group,resell,82,19,5,"Sav.com, LLC",27/08/2022 13:15,27/08/2026 13:15
+30af57cd-c27d-4fff-8db9-ef6c3d50d02f,asian.group,resell,82,98,5,"Sav.com, LLC",27/08/2022 13:15,27/08/2026 13:15
 b59b8635-79e8-4104-9114-9dc4a5fc961b,AsianTiger.group,available,52,1,11,,,
 1b1387e9-0118-4adb-919e-712b96f33fb6,asiatic.group,available,66,4,7,,,
 65d2711d-99c9-417c-938f-02f9f283b83e,aside.group,resell,102,9,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 18:58,14/11/2025 18:58
@@ -1116,7 +1116,7 @@ e3a13e9d-6b8c-4b93-9c5e-92cc92558116,ask.group,resell,80,41,3,"Spaceship, Inc.",
 7c325a0d-25bd-4a52-b612-2557723b5f3a,askant.group,available,76,3,6,,,
 a451f4ea-4763-4a70-b65b-37c34fc307ac,asked.group,available,76,5,5,,,
 e3ddd592-979f-411d-aaef-9c70c4f70e0c,aslant.group,available,58,2,6,,,
-b4912772-0e6c-4a0d-89d7-6bfa83d54e52,asleep.group,available,74,6,6,,,
+b4912772-0e6c-4a0d-89d7-6bfa83d54e52,asleep.group,available,74,97,6,,,
 601adc84-0e98-4e09-ae3c-61c1d51395cd,aslongas.group,available,52,1,10,,,
 798885ed-c737-4ad0-a8ec-dfda76e68320,aslope.group,available,58,1,6,,,
 53e1253a-7ea5-4188-a0a0-184ff8013c41,asof.group,available,56,3,5,,,
@@ -1147,7 +1147,7 @@ d27bdfbb-73a8-44a0-af85-b4d4ca581155,asset.group,resell,72,29,5,Alibaba Cloud Co
 706a25ba-c257-4ee4-8f56-b35432e6bae7,asshole.group,available,48,12,7,,,
 186c673f-2ffe-49f1-ac51-8337349db2c9,assignable.group,available,44,3,10,,,
 4bed5766-a1f9-41a0-8fc8-a04bc4c45688,assigned.group,available,44,5,8,,,
-c470b472-42b2-460d-b6ee-cce3d83543d7,assistant.group,resell,74,21,9,"Xiamen ChinaSource Internet Service Co., Ltd",01/04/2023 15:15,01/04/2026 15:15
+c470b472-42b2-460d-b6ee-cce3d83543d7,assistant.group,resell,74,98,9,"Xiamen ChinaSource Internet Service Co., Ltd",01/04/2023 15:15,01/04/2026 15:15
 bd0a64c3-1830-49f9-a00c-0d57bf16652f,assistive.group,available,44,6,9,,,
 64206954-fef4-4513-bfa0-b98396fc2217,associable.group,available,44,1,10,,,
 ae67cb2c-93ae-4faa-9acb-628b536b8688,associate.group,resell,48,10,9,"Chengdu West Dimension Digital Technology Co., Ltd.",13/07/2023 15:15,13/07/2026 15:15
@@ -1175,7 +1175,7 @@ baabbc0d-98e5-46d9-912f-4c15ee0ce303,asthedayislong.group,available,44,1,18,,,
 c44e9e6b-864f-451e-a0e3-8dafddf9bb7b,asthenic.group,available,52,1,8,,,
 fd829ec1-76c3-457c-be0b-af968ba9afd5,asthesayinggoes.group,available,44,1,18,,,
 be25afc3-fe00-4e99-9558-e288977c1196,astheysay.group,available,44,1,11,,,
-709e2239-3ee8-4f32-bf58-0d70dcf4376d,asthmatic.group,available,64,2,9,,,
+709e2239-3ee8-4f32-bf58-0d70dcf4376d,asthmatic.group,available,64,97,9,,,
 1fc7546f-cbe2-416a-85a3-33adb5601609,astigmatic.group,available,56,1,10,,,
 96112ea2-f8a5-486a-9c1b-66267856f412,astimegoesby.group,available,44,1,15,,,
 882e8997-e487-434e-8266-66224db80487,astimesgo.group,available,44,1,11,,,
@@ -1186,7 +1186,7 @@ be25afc3-fe00-4e99-9558-e288977c1196,astheysay.group,available,44,1,11,,,
 f71d97fb-0f51-4054-9881-4325592810bc,astonished.group,available,68,97,10,,,
 50c89cf4-e8b0-4692-bcdf-8e92c7866306,astound.group,resell,96,8,7,"Chengdu West Dimension Digital Technology Co., Ltd.",26/11/2025 21:39,26/11/2026 21:39
 f35f5797-748d-4a5d-89d1-d1a17c849dc8,astounded.group,available,68,97,9,,,
-08fcf9e6-9fd2-4527-93a2-c2a4b440e015,astounding.group,available,70,5,10,,,
+08fcf9e6-9fd2-4527-93a2-c2a4b440e015,astounding.group,available,70,97,10,,,
 55b9f0f9-5005-4ce6-9996-985d18d16b49,astragalar.group,available,34,1,10,,,
 17143071-ad93-4b26-bf3d-d39ea1eeda57,astral.group,resell,80,32,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/03/2020 08:40,05/03/2026 08:40
 c3eaaf39-e973-49e7-bf49-6f392e9f1114,astringent.group,available,64,1,10,,,
@@ -1218,7 +1218,7 @@ c3b3f1a7-9baa-48db-9ddd-90cb244ddc2d,atavistic.group,available,36,3,9,,,
 8ae4a3fa-77da-4ff8-94a6-63ebed275212,ateleiotic.group,available,34,1,10,,,
 1ce12df9-764f-48ff-be4d-d454e8bc77c8,atfault.group,available,36,1,8,,,
 e9bb13ab-4a45-413e-9d47-3b31880cc438,atheart.group,available,64,5,8,,,
-1fb0855e-38ee-479f-82f1-a7b8ca3b7c72,atheist.group,available,88,8,7,,,
+1fb0855e-38ee-479f-82f1-a7b8ca3b7c72,atheist.group,available,88,97,7,,,
 b34ab3a9-15ba-43ba-b632-f241c9ec1063,atheistic.group,available,40,1,9,,,
 b7d4dc62-fee9-44b6-adb6-83a6adf37550,athenian.group,available,54,5,8,,,
 def534d6-dcdb-4009-bfe7-5662d45b9f82,athlete.group,resell,86,23,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/09/2020 04:30,18/09/2026 04:30
@@ -1239,7 +1239,7 @@ f335451e-724e-44bd-9126-fc5ca523f45c,atoxic.group,available,38,1,6,,,
 6683f6bb-eba0-4c30-ad62-a517a1b8bdb1,atpresent.group,available,61,2,10,,,
 ea573096-19a4-40d7-9021-a22bcff719ce,atrial.group,available,42,4,6,,,
 93c860e7-865d-4384-96db-2edd04d21f13,atrip.group,available,38,4,5,,,
-f7eb3f3f-1a46-461f-ba29-7136a9c5eb78,atrocious.group,available,46,3,9,,,
+f7eb3f3f-1a46-461f-ba29-7136a9c5eb78,atrocious.group,available,46,97,9,,,
 37645a15-db6a-4531-bd17-afae1fdb7f7a,atrophic.group,available,36,1,8,,,
 c7ae9804-0830-4b77-b5b1-190c610cb2a5,atrophied.group,available,38,1,9,,,
 ed6ce20c-8335-4b9b-a200-73665619d1fe,atsixandseven.group,available,62,1,16,,,
@@ -1248,16 +1248,16 @@ ed6ce20c-8335-4b9b-a200-73665619d1fe,atsixandseven.group,available,62,1,16,,,
 0ef28e93-4a3f-458b-9609-667194887bb1,attable.group,available,68,3,8,,,
 673c088f-113b-4b71-902f-2a8ddeb94f94,attachable.group,available,48,1,10,,,
 c6331d21-275a-4307-84fc-9e136bc7d062,attached.group,available,66,4,8,,,
-a22b88ed-1ef6-4d8e-9a62-8d6f8a013f66,attainable.group,available,86,7,10,,,
+a22b88ed-1ef6-4d8e-9a62-8d6f8a013f66,attainable.group,available,86,98,10,,,
 3c88d208-0d2b-426c-a64b-b89321d1b2d1,attained.group,available,58,2,8,,,
 8f470949-6412-44c6-852e-430584f0f818,attempt.group,available,94,5,7,,,
 1c3512b5-8cd0-4280-b110-5348c4bc9fe7,attempted.group,available,52,2,9,,,
 11b48d8f-04e4-4fd6-b954-30e248d55859,attend.group,resell,80,12,6,"Chengdu West Dimension Digital Technology Co., Ltd.",16/09/2025 21:19,16/09/2026 21:19
 a5459a8a-1793-44a7-bf0a-d115c039a5de,attendant.group,available,86,5,9,,,
-d37fdb81-294b-469a-8c17-71125f176ef9,attended.group,available,58,2,8,,,
+d37fdb81-294b-469a-8c17-71125f176ef9,attended.group,available,58,97,8,,,
 31852b5b-874a-4527-955e-55efe7d2f14d,attender.group,available,38,3,8,,,
 c32fe70e-a4f6-48d0-b669-b9d7190c686e,attention.group,resell,90,21,9,"NameCheap, Inc.",04/08/2025 15:15,04/08/2026 15:15
-50dbfbad-689e-47c1-853c-96530ed86bb1,attentive.group,resell,68,7,9,"Chengdu West Dimension Digital Technology Co., Ltd.",16/09/2025 01:23,16/09/2026 01:23
+50dbfbad-689e-47c1-853c-96530ed86bb1,attentive.group,resell,68,98,9,"Chengdu West Dimension Digital Technology Co., Ltd.",16/09/2025 01:23,16/09/2026 01:23
 e5249cd0-a3b6-4199-99be-6fe45dab58c8,attenuate.group,available,56,1,9,,,
 7ea47ae4-03f1-48a3-88f3-e4f7cc5029db,attenuated.group,available,38,1,10,,,
 93b73b56-188a-4d5d-9039-9a8559b9e92d,attested.group,available,46,3,8,,,
@@ -1288,52 +1288,52 @@ e55df712-3296-4015-a81b-52cd1b3a6476,atthisjuncture.group,available,67,1,16,,,
 f8656f23-b474-4e19-be52-b91099821d04,atwill.group,available,65,4,7,,,
 3fb20e59-7428-4bcd-8d24-4b24b9c06244,atworst.group,available,55,1,8,,,
 cb0bc631-a898-4bc5-9f6d-8cfe50ed9db9,atyourservice.group,available,74,10,15,,,
-fb7ec695-b919-4c4b-942c-dc33e9fcd1c2,auburn.group,resell,64,13,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 18:58,14/11/2026 18:58
+fb7ec695-b919-4c4b-942c-dc33e9fcd1c2,auburn.group,resell,64,97,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 18:58,14/11/2026 18:58
 929ace1c-80fb-4b12-abb9-d912ac647f08,aucourant.group,available,58,3,10,,,
 1ca929f7-45a8-4cf7-850a-943610c22b47,auctorial.group,available,45,1,9,,,
-42addc62-ec09-4c71-ae6d-7455d6107d78,audacious.group,resell,72,10,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/09/2025 19:58,12/09/2026 19:58
+42addc62-ec09-4c71-ae6d-7455d6107d78,audacious.group,resell,72,97,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/09/2025 19:58,12/09/2026 19:58
 666933b7-2279-466f-848f-7b50cfceff6a,audenesque.group,available,45,1,10,,,
 02fbf61d-f57c-40f8-b224-797ef33afed7,Audi.group,available,86,20,4,,,
-1b5d490b-4477-40da-b637-19857c77bdbf,audible.group,available,112,28,7,,,
+1b5d490b-4477-40da-b637-19857c77bdbf,audible.group,available,112,98,7,,,
 62ea2fc2-dad4-4d39-9f6d-35882046be5f,audile.group,available,82,3,6,,,
 62b9c539-7eb8-4c99-a3ec-6b03bceb59dc,audio.group,resell,90,99,5,"Chengdu West Dimension Digital Technology Co., Ltd.",23/08/2018 23:21,23/08/2026 23:21
 d43cf36e-81ed-4b4b-972e-5b3c3274a962,auditive.group,available,60,4,8,,,
-0de6732c-1e7c-492f-834d-001767886de9,auditory.group,available,88,5,8,,,
+0de6732c-1e7c-492f-834d-001767886de9,auditory.group,available,88,97,8,,,
 a13a522e-a849-4f81-93eb-0f9e74134bf6,aufait.group,available,62,4,7,,,
 0e31d52e-6d8a-44df-9b48-f6155ed5af17,aug.group,available,70,14,3,,,
 a3747772-8a79-40a5-b03b-1785879019be,augean.group,available,52,3,6,,,
 eed46b77-81fa-46a1-a3a3-bb265c2b3fef,augitic.group,available,52,1,7,,,
-567670c0-f9ea-4e45-8c0f-7f2b79eee4b4,augratin.group,available,70,1,9,,,
-0dd7a370-fae4-4c56-ad5e-42b119bdadf0,august.group,resell,72,27,6,"Chengdu West Dimension Digital Technology Co., Ltd.",08/05/2019 08:28,08/05/2026 08:28
+567670c0-f9ea-4e45-8c0f-7f2b79eee4b4,augratin.group,available,70,97,9,,,
+0dd7a370-fae4-4c56-ad5e-42b119bdadf0,august.group,resell,72,98,6,"Chengdu West Dimension Digital Technology Co., Ltd.",08/05/2019 08:28,08/05/2026 08:28
 c7dbb342-1cf6-43aa-bc07-97769b9d1413,augustan.group,available,60,1,8,,,
-503f7c1b-8ed9-4b05-8757-6f6acfe46a39,aujus.group,available,68,2,6,,,
+503f7c1b-8ed9-4b05-8757-6f6acfe46a39,aujus.group,available,68,97,6,,,
 86edef55-8114-4a90-9b6d-8a041426604c,aunt.group,available,74,97,4,,,
-267d9869-f5fb-482a-bbb0-3a641ffa9557,aural.group,resell,68,6,5,"Xiamen ChinaSource Internet Service Co., Ltd",05/08/2025 15:15,05/08/2026 15:15
-9872fb9e-c95b-4511-8edc-e060dd6695a1,aureate.group,resell,70,5,7,Dynadot Inc,01/10/2025 22:20,01/10/2026 22:20
+267d9869-f5fb-482a-bbb0-3a641ffa9557,aural.group,resell,68,97,5,"Xiamen ChinaSource Internet Service Co., Ltd",05/08/2025 15:15,05/08/2026 15:15
+9872fb9e-c95b-4511-8edc-e060dd6695a1,aureate.group,resell,70,98,7,Dynadot Inc,01/10/2025 22:20,01/10/2026 22:20
 e886f349-4c3c-4df7-a694-89e6a90abde1,auricular.group,available,78,2,9,,,
 4cc9a422-7ff2-4fec-8b49-bcf4b841990a,auriculate.group,available,60,1,10,,,
-17118639-5941-46ca-b4e1-31edae15bfd2,auriferous.group,available,66,1,10,,,
+17118639-5941-46ca-b4e1-31edae15bfd2,auriferous.group,available,66,97,10,,,
 d48e28b3-f77c-47c2-843f-63439c1aa63f,auriform.group,available,60,1,8,,,
-8444330c-abb2-414c-8f85-a99a9d07ba62,auroral.group,available,70,4,7,,,
+8444330c-abb2-414c-8f85-a99a9d07ba62,auroral.group,available,70,98,7,,,
 d0e779df-ec7e-40d6-8a5a-82b851b762e9,aurous.group,available,64,5,6,,,
-c8516e96-6592-427b-9f7d-25a66b546ea7,auspicious.group,resell,72,8,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/03/2025 14:25,25/03/2026 14:25
-419a786b-d565-4f35-8bd7-2f63b11e835f,aussie.group,available,96,19,6,,,
+c8516e96-6592-427b-9f7d-25a66b546ea7,auspicious.group,resell,72,97,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/03/2025 14:25,25/03/2026 14:25
+419a786b-d565-4f35-8bd7-2f63b11e835f,aussie.group,available,96,98,6,,,
 a0c4ae64-a439-4fc0-9427-91dc7a500a13,austenitic.group,available,60,1,10,,,
-59addc11-a45c-4d2c-ba79-3db6038b3490,austere.group,available,60,5,7,,,
+59addc11-a45c-4d2c-ba79-3db6038b3490,austere.group,available,60,97,7,,,
 db690f83-1629-4def-81ef-488027fe7d82,austral.group,resell,54,9,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/01/2021 12:07,03/01/2026 12:07
 64f36126-b073-4d2c-a315-e2e881f681f5,australia.group,available,66,6,9,,,
 0a42f5d3-3900-4c42-837e-351740f7a3d7,AustraliaDay.group,available,70,2,13,,,
-27e7bc7a-01fd-4195-a4f6-8babcbbe5b1c,australian.group,available,92,17,10,,,
-e5820aa2-bd4d-419e-8eb5-3ca5cf4fb1a2,austrian.group,available,82,10,8,,,
+27e7bc7a-01fd-4195-a4f6-8babcbbe5b1c,australian.group,available,92,97,10,,,
+e5820aa2-bd4d-419e-8eb5-3ca5cf4fb1a2,austrian.group,available,82,97,8,,,
 c777d83f-b616-4ad5-b913-74507e9d6d1f,autacoidal.group,available,48,1,10,,,
 1752e58a-8cf5-4be3-b126-be60c43ead5b,autarchic.group,available,48,1,9,,,
 07b544c6-6b3c-4142-9265-f45be2c708d4,autarkic.group,available,48,1,8,,,
 b95de3a1-c5b2-4173-b02d-386a5e3c0085,autarkical.group,available,48,1,10,,,
-30d2dc85-2ee2-49eb-8fc7-44c0582160a8,authentic.group,resell,76,20,9,"Chengdu West Dimension Digital Technology Co., Ltd.",28/10/2019 12:05,28/10/2026 12:05
+30d2dc85-2ee2-49eb-8fc7-44c0582160a8,authentic.group,resell,76,98,9,"Chengdu West Dimension Digital Technology Co., Ltd.",28/10/2019 12:05,28/10/2026 12:05
 cf51361c-bc4a-47a5-8d2c-59cbb4ebddfa,authorial.group,available,45,3,9,,,
-bde0e696-cadd-403e-ae20-d0ec91661c60,authorised.group,available,70,2,10,,,
+bde0e696-cadd-403e-ae20-d0ec91661c60,authorised.group,available,70,97,10,,,
 06763b1b-a735-418d-bf07-cf2b7a3202da,authorityfigure.group,available,64,1,16,,,
-6b4f736e-58ad-4970-bc7c-cfbf50bf2bda,authorized.group,available,70,7,10,,,
+6b4f736e-58ad-4970-bc7c-cfbf50bf2bda,authorized.group,available,70,98,10,,,
 d062a299-98f1-49a6-9f69-f7963c98fa9a,autistic.group,available,66,13,8,,,
 f239f916-a367-4e3a-9e20-a402ff75bbfe,auto.group,resell,68,42,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/11/2020 12:11,07/11/2026 12:11
 0fbcd25e-6236-4d5f-8c88-5da5ea722993,autocratic.group,available,48,1,10,,,
@@ -1346,7 +1346,7 @@ a5675018-54d6-4811-9524-d22fba0551e6,autogenous.group,available,54,1,10,,,
 e7124e47-6b02-480c-bdde-f225289b5f3b,autoicous.group,available,48,2,9,,,
 0dd2ebf2-5e86-4288-97d6-1d2afb90ca49,autoimmune.group,available,48,5,10,,,
 845b34af-93a9-4c9a-ad9b-980fbdfaf248,autolytic.group,available,48,2,9,,,
-f9eafec6-78e6-4df7-89f7-a4a4c9906b1a,automated.group,resell,70,22,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 18:54,14/11/2026 18:54
+f9eafec6-78e6-4df7-89f7-a4a4c9906b1a,automated.group,resell,70,98,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 18:54,14/11/2026 18:54
 8fa2f864-6805-4611-a301-37aa9e66074c,automobile.group,resell,106,14,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/08/2018 23:24,23/08/2028 23:24
 9014b136-007f-4f4e-b3bf-fb10e08831dc,autonomic.group,available,60,7,9,,,
 6210a835-ba8a-4137-9596-49e3d367d6ab,autophytic.group,available,48,1,10,,,
@@ -1356,13 +1356,13 @@ f9eafec6-78e6-4df7-89f7-a4a4c9906b1a,automated.group,resell,70,22,9,"Chengdu Wes
 ecec2b45-5ed9-4e9a-b6d7-b1f45297d2ab,autumnal.group,available,45,3,8,,,
 a29ca284-4fca-436b-b0c6-9815b94eb830,auxetic.group,available,74,2,7,,,
 c4b40fb5-554c-443d-8244-d6d8c209189a,auxinic.group,available,56,1,7,,,
-c31ffd62-0fde-4310-99ad-063da3024d6c,available.group,resell,78,15,9,"Sav.com, LLC",16/02/2025 17:08,16/02/2026 17:08
+c31ffd62-0fde-4310-99ad-063da3024d6c,available.group,resell,78,97,9,"Sav.com, LLC",16/02/2025 17:08,16/02/2026 17:08
 2973d2ad-7b37-41c7-9736-d6f9f821c37b,avaricious.group,available,48,2,10,,,
 6d3f53b2-9ab3-4d73-8939-fb6fc2bfefa1,avascular.group,available,52,1,9,,,
 58add0f4-e299-447d-9205-4c2b6cd0b2fd,avellan.group,available,52,4,7,,,
 ea50c3af-5502-4f2d-b61d-2cd231b1926d,avellane.group,available,66,1,8,,,
 4bd4ad2b-72df-4337-bfef-22bdb2ccd927,avenged.group,available,62,1,7,,,
-4b750b68-a041-44c7-8b1e-1f560cd00032,average.group,available,112,10,7,,,
+4b750b68-a041-44c7-8b1e-1f560cd00032,average.group,available,112,97,7,,,
 bc09cd53-7b69-4f03-9074-8d8fe58930d7,aversive.group,available,56,1,8,,,
 7e98c20a-0374-44e4-8fa3-c26f20b61d5e,avertable.group,available,52,1,9,,,
 2bc58f91-7479-46d9-b114-1b7cfb7fab34,avertible.group,available,52,1,9,,,
@@ -1373,7 +1373,7 @@ b81f08ec-c975-4f64-8c82-39901014d0ff,avid.group,resell,68,24,4,"Chengdu West Dim
 9150748c-6836-4523-8b77-20a191907846,avoidable.group,available,72,1,9,,,
 b6943032-9008-4e5a-8613-550717d2357b,avon.group,resell,72,12,4,PDR Ltd. d/b/a PublicDomainRegistry.com,17/06/2016 21:33,17/06/2026 21:33
 f08f3ff6-cb18-4134-b888-e7537312fb14,await.group,available,92,8,5,,,
-0b312fe9-c367-4efe-868b-fa77e76e4216,awake.group,resell,100,35,5,"Xiamen ChinaSource Internet Service Co., Ltd",19/09/2025 15:15,19/09/2026 15:15
+0b312fe9-c367-4efe-868b-fa77e76e4216,awake.group,resell,100,99,5,"Xiamen ChinaSource Internet Service Co., Ltd",19/09/2025 15:15,19/09/2026 15:15
 f75f51b9-abb8-4c3e-818e-c72af2f29b2e,award.group,resell,104,16,5,"Chengdu West Dimension Digital Technology Co., Ltd.",05/05/2018 07:44,05/05/2026 07:44
 638ff29f-a589-4dab-a725-ff971eb41e35,awarding.group,available,78,2,8,,,
 4711ce7b-48a6-43c1-9df7-6dcf6edec9c1,aware.group,resell,100,26,5,"Chengdu West Dimension Digital Technology Co., Ltd.",03/02/2022 13:15,03/02/2026 13:15
@@ -1383,7 +1383,7 @@ f75f51b9-abb8-4c3e-818e-c72af2f29b2e,award.group,resell,104,16,5,"Chengdu West D
 0b78f694-bffa-484b-bbad-44ee336c724e,aweigh.group,available,38,2,6,,,
 b638f281-7c16-475d-816e-4924911b48d9,aweless.group,available,56,2,7,,,
 7f632b1d-c75c-4ac5-9a98-e9a104197a6f,awestruck.group,available,60,7,9,,,
-370ec81e-3a10-4583-9763-36d993b66abe,awful.group,available,76,13,5,,,
+370ec81e-3a10-4583-9763-36d993b66abe,awful.group,available,76,98,5,,,
 6e2f71df-8df2-4ea6-bb34-42920fa2bd8b,awfully.group,available,62,2,7,,,
 3a2d8537-a9b6-4dda-8782-cde0f748cbab,awfulness.group,available,60,1,9,,,
 d5f08235-ae62-454f-b429-aece2358968e,awheel.group,available,50,2,6,,,
@@ -1531,7 +1531,7 @@ b89ca04d-4dd1-4e10-96a2-4289ac19f6f6,barbadian.group,available,68,0,9,,,
 7d3eb02f-aa1a-4a7b-b772-b4c05e0231df,barbellate.group,available,44,1,10,,,
 4e30de81-d873-4ca3-b5e4-316f9916fd34,Barbiepink.group,available,80,2,11,,,
 b7f14d78-c3cd-4d0c-8b80-bccdab35cbeb,bardic.group,available,64,5,6,,,
-b1854041-9271-43ad-9a08-4205050cc3e6,bare.group,resell,66,16,4,"DNSPod, Inc.",17/10/2024 17:00,17/10/2026 17:00
+b1854041-9271-43ad-9a08-4205050cc3e6,bare.group,resell,66,98,4,"DNSPod, Inc.",17/10/2024 17:00,17/10/2026 17:00
 4eb2b212-2cb3-4cf3-b09b-3c53569fd540,bareass.group,available,60,1,8,,,
 29e6edbe-cad4-4092-936c-11e6322f7802,bareassed.group,available,42,1,10,,,
 25f12589-eafa-436d-835d-3afd57f0e718,bareback.group,available,96,6,8,,,
@@ -1837,7 +1837,7 @@ cab8e9bd-42c2-4d8d-9ac6-8431783dd179,bowlegged.group,available,44,1,9,,,
 e7744681-8343-4874-b39b-a54543290ebe,brainwash.group,available,80,6,9,,,
 7164c8c0-d30f-4f2f-b935-60e56b5d7fb7,braless.group,available,36,4,7,,,
 ae940cfb-508d-4cd0-afc0-9cdebf43a967,branch.group,resell,62,24,6,"Sav.com, LLC - 19",05/11/2023 15:15,05/11/2026 15:15
-674d0d40-404f-43ae-abca-e8037c8f3f1c,brave.group,resell,76,38,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),24/08/2018 08:25,24/08/2026 08:25
+674d0d40-404f-43ae-abca-e8037c8f3f1c,brave.group,resell,76,98,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),24/08/2018 08:25,24/08/2026 08:25
 41de8554-3bd9-43de-99db-d5a654202ad3,bravo.group,available,66,14,5,,,
 50176e4b-07cd-40d3-8310-15d49667c7b3,break.group,resell,82,15,5,"Chengdu West Dimension Digital Technology Co., Ltd.",29/06/2018 01:29,29/06/2026 01:29
 d0a4986c-a9c0-47e3-a810-d3ac842a8079,breakeven.group,available,82,5,10,,,
@@ -2550,7 +2550,7 @@ bd2baab3-df51-43c5-8039-fa8e5972863b,datefrom.group,available,68,1,9,,,
 f43a3469-8146-4f7f-a4cb-64b4a3205692,dateofbirth.group,available,70,2,13,,,
 967a5a20-7a36-433f-bff7-6c6455a5df1e,dateofdeath.group,available,60,1,13,,,
 b85abcf9-448d-42f8-91cc-76e5277116cb,daughter.group,available,76,6,8,,,
-96f2f1bb-e5ac-46c2-95d8-61a81e647690,dauntless.group,resell,66,10,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/09/2025 19:58,12/09/2026 19:58
+96f2f1bb-e5ac-46c2-95d8-61a81e647690,dauntless.group,resell,66,98,9,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/09/2025 19:58,12/09/2026 19:58
 6a3bd03a-bcd9-45a0-b061-1731f7a79cdd,dawn.group,resell,70,28,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/10/2023 15:15,13/10/2027 15:15
 5a349d03-637a-4359-a463-0ee42f58be20,daylight.group,resell,94,26,8,"Sav.com, LLC - 43",16/07/2025 15:15,16/07/2026 15:15
 d1379211-3fa3-4fc8-a51c-45d23aabeb85,days.group,resell,92,19,4,"Chengdu West Dimension Digital Technology Co., Ltd.",25/07/2023 15:15,25/07/2029 15:15
@@ -2566,7 +2566,7 @@ cea378bb-4dc6-40e1-8ec2-c90f533381ca,deal.group,resell,66,30,4,"Spaceship, Inc."
 6daaa4c3-00b1-4820-9fce-23bccd7838ba,debased.group,available,54,2,7,,,
 21c44037-b4b7-4066-85fa-e97af4a965db,decade.group,resell,82,97,6,"Xiamen ChinaSource Internet Service Co., Ltd",05/04/2023 17:00,05/04/2026 17:00
 b42e525e-503a-464d-9acc-0fbcf4ccfa80,decay.group,available,70,12,5,,,
-d9d1e11c-8504-412e-9e62-6f44dfeb83c4,deceased.group,available,64,3,8,,,
+d9d1e11c-8504-412e-9e62-6f44dfeb83c4,deceased.group,available,64,97,8,,,
 4f2c89b4-601a-4b2b-81e8-cd2a0a66044b,decent.group,resell,52,29,6,"Chengdu West Dimension Digital Technology Co., Ltd.",11/12/2023 15:15,11/12/2025 15:15
 2c20ed8d-ecee-44a0-8e9c-2bd27f2e7ef0,decide.group,resell,74,19,6,"Chengdu West Dimension Digital Technology Co., Ltd.",05/06/2025 21:23,05/06/2026 21:23
 cc67afb9-46eb-42a5-b60a-2a2b91e56cfb,deck.group,resell,94,23,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/02/2024 18:44,07/02/2027 18:44
@@ -2790,7 +2790,7 @@ b6d0d9d9-4480-46fd-9d9e-d6f2ec1761c5,DJIA.group,available,68,4,4,,,
 b5b09e74-ca0c-4ead-9cc7-228d44863154,dock.group,resell,70,17,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/10/2019 15:30,15/10/2026 15:30
 e6f7336d-0a97-42ea-84aa-416555d0b6ba,document.group,resell,86,21,8,"Chengdu West Dimension Digital Technology Co., Ltd.",10/01/2020 17:12,10/01/2027 17:12
 19195756-4416-4509-ada6-87348dd8981c,documentation.group,available,66,12,13,,,
-5d628a82-7207-416b-8844-6a2d7c012555,documented.group,available,66,5,10,,,
+5d628a82-7207-416b-8844-6a2d7c012555,documented.group,available,66,97,10,,,
 8c02cccc-666e-4ec4-959a-8d18de76cefb,dogshot.group,available,76,1,8,,,
 8feef2d8-75d8-4fc0-ab99-2c2873d3766d,dogsofwar.group,available,76,3,11,,,
 f2bd4d0a-b04d-4011-89cd-b161b2fce574,dogtoothgrass.group,available,90,1,14,,,
@@ -2839,7 +2839,7 @@ b0cbeef9-b578-47f3-897e-f6a9692eb1d7,dragrace.group,available,96,3,9,,,
 b91b01f0-a036-4854-bb7a-d00f72849389,draw.group,resell,98,57,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/08/2024 15:15,25/08/2026 15:15
 c13455ca-7fcb-440f-a5f3-5221e9c88c97,drawn.group,available,66,6,5,,,
 bfd7a8d5-3178-4ca0-9225-c0fda174239e,drawup.group,available,74,3,7,,,
-95b7af17-1422-4e1d-b4cd-3dbcc861fda1,dreadful.group,available,82,5,8,,,
+95b7af17-1422-4e1d-b4cd-3dbcc861fda1,dreadful.group,available,82,97,8,,,
 d6df2efb-19dc-4001-8cca-58105feb7352,dreamup.group,available,78,7,8,,,
 d5fa851d-ef07-4837-9ade-7a1fe786ab4b,dress.group,resell,100,13,5,"Chengdu West Dimension Digital Technology Co., Ltd.",08/03/2017 04:22,08/03/2027 04:22
 05c23757-8dd1-49ea-9d8a-9d5f6789ef28,drink.group,resell,100,20,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),19/06/2018 13:06,19/06/2029 13:06
@@ -3105,7 +3105,7 @@ a1060e2d-41b4-40b2-b1a0-daf53b3c4343,facilitating.group,available,55,1,12,,,
 c372cf5f-52f0-4d4f-af06-20225ac1ffbe,facility.group,resell,76,12,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),28/05/2019 23:25,28/05/2026 23:25
 2100f2b9-3608-4411-b0fd-95bd9a9e53ed,fact.group,resell,78,22,4,"Chengdu West Dimension Digital Technology Co., Ltd.",10/11/2022 15:15,10/11/2026 15:15
 a72ba0c3-8030-41ab-b1da-b834634cd4d4,factor.group,available,62,22,6,,,
-d31cbc48-3bd3-4ba8-a71b-0301561905b4,faded.group,available,64,7,5,,,
+d31cbc48-3bd3-4ba8-a71b-0301561905b4,faded.group,available,64,97,5,,,
 54f2082f-d911-438a-a8a8-646afa61842a,fail.group,resell,54,19,4,"Chengdu West Dimension Digital Technology Co., Ltd.",15/09/2025 11:50,15/09/2026 11:50
 a351f69e-afd8-4d7b-8e0b-50c64f9ed11c,failedstate.group,available,54,2,12,,,
 abc0a777-8513-4ecb-904d-28c052dd44a9,fairly.group,resell,66,7,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 18:09,14/11/2026 18:09
@@ -3122,7 +3122,7 @@ bf039129-136a-4fef-97b3-df8eb1355e73,fallover.group,available,62,2,9,,,
 db1f2511-6669-4852-807f-9a137c2cac6f,fallshort.group,available,66,1,10,,,
 070ffe61-cec2-40b9-a47c-d6b1f40d10c1,falltotheground.group,available,62,1,18,,,
 f67a9ea8-5ed0-481b-8337-0185d1e2c43f,fallunder.group,available,68,1,10,,,
-88cb8656-d53c-430a-8c76-063fe1f8ce91,false.group,available,64,12,5,,,
+88cb8656-d53c-430a-8c76-063fe1f8ce91,false.group,available,64,98,5,,,
 5b57177b-7391-4a9e-829f-e8e56ad0fe14,fame.group,resell,104,26,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/07/2020 12:30,05/07/2027 12:30
 dda558b9-d68d-46c3-9705-af5f8664ea11,familiar.group,available,90,12,8,,,
 b3326802-5667-4f9a-956c-83829f268dcd,families.group,available,54,10,8,,,
@@ -3161,7 +3161,7 @@ fbbdb951-7c4c-4888-a8da-ef93bc4c59fd,favorite.group,resell,66,16,8,"Sav.com, LLC
 c8c5ef93-2910-4465-b39e-377efa72c4bd,faxmachine.group,available,64,2,11,,,
 0c20878a-5a34-4085-af0c-dd1b813c6166,fear.group,resell,58,12,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/09/2025 08:21,08/09/2026 08:21
 1996acd1-e0a3-40d1-a4f1-0f62430d413f,fearful.group,available,70,2,7,,,
-29cc40c6-8e2a-4d81-8f9d-9da222e43ac8,fearless.group,resell,72,27,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/03/2020 08:21,04/03/2027 08:21
+29cc40c6-8e2a-4d81-8f9d-9da222e43ac8,fearless.group,resell,72,98,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/03/2020 08:21,04/03/2027 08:21
 a68591b2-8c8d-4981-b944-29189c58b137,feature.group,resell,94,13,7,"Chengdu West Dimension Digital Technology Co., Ltd.",27/10/2020 10:33,27/10/2026 10:33
 37ba3a99-de7a-491a-9ac0-9fe8f0852fd3,featured.group,available,64,12,8,,,
 0f5cf8ba-3e4e-4059-bf76-7ccb2974409a,feb.group,available,70,7,3,,,
@@ -3300,7 +3300,7 @@ a7b9d4f4-7824-4c9e-ad23-04732febb41c,fork.group,resell,94,20,4,"Sav.com, LLC - 4
 9538afb6-f96a-41de-a17e-a6dc0a3e116f,formalize.group,available,74,2,9,,,
 39ac0265-dc27-4e1a-a933-3165c094816b,former.group,resell,92,7,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 19:08,14/11/2025 19:08
 949e3649-208c-48d0-9c90-1809d456b6d4,formerly.group,available,58,4,8,,,
-ec06e994-6bc9-4659-b568-2750d8d0695c,forth.group,resell,72,13,5,"NameCheap, Inc.",10/08/2025 15:15,10/08/2026 15:15
+ec06e994-6bc9-4659-b568-2750d8d0695c,forth.group,resell,72,97,5,"NameCheap, Inc.",10/08/2025 15:15,10/08/2026 15:15
 6cb9feee-8f08-45ed-8beb-bc8dffa94ee8,forthat.group,available,54,1,8,,,
 add64097-7e3c-4acf-b08e-f6186ceee71e,fortieth.group,available,68,1,8,,,
 f3b11855-5800-4cf3-8f62-e0f2e929b34e,forty.group,resell,80,9,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 19:08,14/11/2025 19:08
@@ -3741,7 +3741,7 @@ f38c4c5b-abec-4ef2-a6db-b8eee131fd93,hardcurrency.group,available,72,1,13,,,
 1e46e581-6ee3-4dbc-bbbe-15729b46e510,hardluck.group,available,60,3,9,,,
 36a93bb6-4736-4028-8482-501ad0d5680f,hardly.group,available,92,4,6,,,
 a610844b-4e74-4e8c-b4cb-5bc59d1e242f,hardworking.group,available,72,3,11,,,
-d9f59645-4bf0-4fda-bb8e-1465c9058dc1,hardy.group,resell,66,16,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/10/2019 12:55,07/10/2027 12:55
+d9f59645-4bf0-4fda-bb8e-1465c9058dc1,hardy.group,resell,66,98,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/10/2019 12:55,07/10/2027 12:55
 ef5410bb-3468-4a89-beb4-ca1ae68c63f8,HarleyDavidson.group,available,82,8,15,,,
 aa8cf550-7da0-4a43-ab45-7a230ef5a755,harm.group,available,86,9,4,,,
 7284f35b-241a-4d17-ac5a-5a375e38c6c3,harmony.group,resell,83,37,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/08/2018 23:24,23/08/2026 23:24
@@ -3810,7 +3810,7 @@ ef753705-4392-4f5a-83f1-f3ce1b879773,heckno.group,available,72,1,7,,,
 dce1044f-378d-49c1-b86d-004f87406cab,hellothere.group,available,80,8,11,,,
 8dc5bc27-3764-4a36-a8e1-e415c82c6d16,helmethair.group,available,66,2,11,,,
 0b9c7cbf-a8e9-49b3-ac6c-d61b5404acc7,helminthic.group,available,68,1,10,,,
-9a0d4f6e-4974-4289-8f30-77c217dc43bd,helper.group,resell,56,18,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/06/2021 01:50,29/06/2027 01:50
+9a0d4f6e-4974-4289-8f30-77c217dc43bd,helper.group,resell,56,99,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),29/06/2021 01:50,29/06/2027 01:50
 9ef23dff-20fe-4997-afeb-6d4295ac161c,hence.group,available,64,7,5,,,
 ae0f5142-be61-46a7-a926-8c65e9a2b0d1,henryford.group,available,74,5,10,,,
 76a2fd3b-15be-4c35-8a42-03aeb247d0be,heptad.group,available,58,2,6,,,
@@ -3860,7 +3860,7 @@ f99b4bd8-709d-4930-b15e-5ee405e484eb,holly.group,resell,56,24,5,Alibaba Cloud Co
 efd84d93-f2e7-44b1-b586-364b92347a06,hood.group,resell,66,16,4,"Chengdu West Dimension Digital Technology Co., Ltd.",23/10/2019 23:19,23/10/2026 23:19
 1175f636-1c03-4779-9f52-ffbcb1e57c73,hoops.group,resell,74,15,5,"Chengdu West Dimension Digital Technology Co., Ltd.",15/06/2025 23:45,15/06/2026 23:45
 b716dfde-1e7c-444b-b1ee-d80c9c18f0a2,hopedfor.group,available,51,1,9,,,
-c6a388d4-9afa-4a39-b6e5-180f638853c5,hopeful.group,resell,84,8,7,"Chengdu West Dimension Digital Technology Co., Ltd.",23/11/2024 10:35,23/11/2025 10:35
+c6a388d4-9afa-4a39-b6e5-180f638853c5,hopeful.group,resell,84,97,7,"Chengdu West Dimension Digital Technology Co., Ltd.",23/11/2024 10:35,23/11/2025 10:35
 7b9cf2c3-b774-428f-85da-1020422bf8e6,hopefully.group,available,70,4,9,,,
 a7ea55e4-7c45-497b-9f9e-ac43f7a05895,horseback.group,available,80,2,9,,,
 86fd418b-904e-49de-b3f2-31a5335c7593,hospital.group,resell,58,18,8,"Xiamen ChinaSource Internet Service Co., Ltd",23/08/2017 23:32,23/08/2026 23:32
@@ -3982,7 +3982,7 @@ e5bc3224-f19d-45ee-8125-ce4d1473e87f,implausible.group,available,52,3,11,,,
 70e9c3c1-3710-4fa3-b1e8-f0f7ac974590,implied.group,available,74,8,7,,,
 2ff5fda2-ffd6-4405-b627-f57fae9d7ce5,implying.group,available,64,2,8,,,
 5ed22266-5ba2-4b97-9df7-1a8fbe716f5c,importance.group,available,72,3,10,,,
-43a90c89-e0ac-44ce-9ef5-6441b78c0d12,important.group,available,78,11,9,,,
+43a90c89-e0ac-44ce-9ef5-6441b78c0d12,important.group,available,78,98,9,,,
 1760eb1a-23ce-4f96-9dfd-1a129afc4557,importantly.group,available,56,2,11,,,
 77edf9ee-a398-42dd-8328-f7f555a87360,impractical.group,available,54,7,11,,,
 370343a0-67af-4a1a-8a45-bafe0ca63ce4,impressed.group,available,66,5,9,,,
@@ -4496,7 +4496,7 @@ c263a6f5-2c20-4f75-a47b-f8d833a5a390,location.group,resell,70,20,8,"DNSPod, Inc.
 9ae5bf85-8dff-4e99-b29b-fcc9ff46abbe,lockkey.group,available,76,2,8,,,
 cc2077af-cf1b-42e9-b17a-cba545e7d90c,loco.group,resell,102,24,4,"Sav.com, LLC - 37",08/10/2024 15:15,08/10/2025 15:15
 71cd3c76-a531-43df-8092-2c2e218f68f0,lodge.group,resell,64,97,5,"Sav.com, LLC - 20",11/08/2023 15:15,11/08/2026 15:15
-c0690e53-87f6-407d-ac50-0c05ba7b55a4,loft.group,resell,64,27,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),30/08/2018 09:01,30/08/2026 09:01
+c0690e53-87f6-407d-ac50-0c05ba7b55a4,loft.group,resell,64,99,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),30/08/2018 09:01,30/08/2026 09:01
 995b4080-20df-4c10-9d20-9aac6236087d,log.group,resell,90,34,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/11/2019 14:30,15/11/2027 14:30
 f896307a-35b1-4975-bb21-9a38b8150274,logo.group,resell,64,31,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),24/08/2019 09:30,24/08/2028 09:30
 446b9073-1e4b-4382-a655-1df3137c8396,london.group,available,76,37,6,,,
@@ -4531,7 +4531,7 @@ fdc1264c-fd7c-4fe9-b891-19e6420c506a,lorditover.group,available,68,1,12,,,
 173c6cd3-9349-4bb9-8fdb-06be16521ea5,lordly.group,available,64,3,6,,,
 3cca4548-0f9d-49a1-a0dd-cb03a02d6edc,los.group,available,86,15,3,,,
 fefc9d43-acdc-42a4-aab8-4374d554df5b,lose.group,available,56,9,4,,,
-b2bb66e0-4d4c-4a78-84bf-cdb966b2baa7,lost.group,resell,66,27,4,"GoDaddy.com, LLC",15/06/2016 21:11,15/06/2026 21:11
+b2bb66e0-4d4c-4a78-84bf-cdb966b2baa7,lost.group,resell,66,98,4,"GoDaddy.com, LLC",15/06/2016 21:11,15/06/2026 21:11
 dfa0fc05-3fde-4f44-a156-144f724c0dd5,lot.group,available,62,17,3,,,
 87dee3c4-0a37-4251-b379-adde45758e60,lots.group,resell,70,10,4,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 18:09,14/11/2025 18:09
 83704ea9-16d6-4287-930c-10bc4e162fb7,lottery.group,resell,70,25,7,"Chengdu West Dimension Digital Technology Co., Ltd.",01/09/2019 08:26,01/09/2026 08:26
@@ -4794,7 +4794,7 @@ ebacc607-0d5e-490d-816f-7fb6468ccd4c,missingperson.group,available,64,4,14,,,
 05d6a527-35ee-409c-9ca1-2343e04d993d,missionaccomplished.group,available,58,3,20,,,
 e5f1eb8c-8497-43ee-9897-8f70c562d42a,mitigative.group,available,66,1,10,,,
 c042ee7b-36f9-4570-869e-85e9eb58a3ba,mitigatory.group,available,66,1,10,,,
-9594430f-088a-49b4-a7c5-8d667f6dd77c,mixed.group,resell,60,12,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/06/2025 23:50,02/06/2026 23:50
+9594430f-088a-49b4-a7c5-8d667f6dd77c,mixed.group,resell,60,98,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/06/2025 23:50,02/06/2026 23:50
 9f00a4dc-800f-4f66-9063-dd3558cb0188,mixedgrill.group,available,72,1,11,,,
 311ab2e9-d2be-4d1e-995f-46d99a9c7b09,mixedup.group,available,37,4,8,,,
 0a4f9c52-b597-46f8-a110-c8ef8ebad0af,mobilephone.group,available,84,10,12,,,
@@ -5025,7 +5025,7 @@ b9d108b3-722b-466a-a069-dd7ec4901eb0,nontoxic.group,available,70,8,8,,,
 eacb624f-e4ef-491d-bc11-76771516d43f,noquarter.group,available,,5,10,,,
 b12e6e6f-2102-46fa-8c0d-dec8af375839,nor.group,available,72,19,3,,,
 aa260b50-f445-4d47-937b-636540dff603,noreally.group,available,74,2,9,,,
-aed1f8a9-659c-49a7-9cc4-8e06c38de4c8,norm.group,resell,74,18,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),17/09/2024 17:00,17/09/2027 17:00
+aed1f8a9-659c-49a7-9cc4-8e06c38de4c8,norm.group,resell,74,98,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),17/09/2024 17:00,17/09/2027 17:00
 f5eaadae-f754-4d67-be77-17eedf555278,normal.group,resell,90,17,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/11/2020 21:31,06/11/2026 21:31
 29837ac9-5cb0-480d-a098-aaf4ad82f4e4,normality.group,available,70,3,9,,,
 971adfd8-cb2e-4da4-ba6e-7903fb3c7282,normally.group,available,66,3,8,,,
@@ -5082,7 +5082,7 @@ ab10ba22-bc3c-4095-b0fd-028e861a39cf,obey.group,available,80,11,4,,,
 8d2f5727-e1fc-400f-81ca-4ed8bb4af463,objectively.group,available,66,4,11,,,
 bdf42a4f-3f64-48e3-862f-67ebfee0db23,objects.group,available,,12,7,,,
 0c991006-be0a-4314-8486-3929d0301059,obscene.group,available,76,5,7,,,
-46508e8c-07a8-4aeb-813b-254058a14e75,observed.group,available,68,3,8,,,
+46508e8c-07a8-4aeb-813b-254058a14e75,observed.group,available,68,97,8,,,
 68ec108e-5651-4990-a1f5-b3574bf34641,obtain.group,resell,84,7,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 14:48,14/11/2026 14:48
 7a014817-7602-4386-be73-87e03c8b6158,obtained.group,available,,2,8,,,
 dc908b7e-e059-4b16-94a4-ffde49bdd3c9,obtuse.group,available,78,4,6,,,
@@ -5806,7 +5806,7 @@ f036bf4d-a4b7-4769-bd17-8cf612586b9f,relatively.group,available,62,2,10,,,
 b8e6002a-f521-49fa-bcb9-8c9e4362cd06,releasecandidate.group,available,70,1,17,,,
 71515329-409b-47e8-837e-6ae1b361b0e0,releaseversion.group,available,74,1,15,,,
 efbc80bc-c876-442d-91bb-3c95e47d5e5a,relevance.group,resell,72,12,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 19:17,14/11/2026 19:17
-be5d4e40-b0cd-46ae-b4e0-1a00db1ea732,reliable.group,resell,94,18,8,"Xiamen ChinaSource Internet Service Co., Ltd",04/11/2018 08:26,04/11/2026 08:26
+be5d4e40-b0cd-46ae-b4e0-1a00db1ea732,reliable.group,resell,94,98,8,"Xiamen ChinaSource Internet Service Co., Ltd",04/11/2018 08:26,04/11/2026 08:26
 de43dac8-f0f1-4bb7-9162-92b047547346,relieved.group,available,66,3,8,,,
 0c0e3b7f-af2b-46ad-b32e-2ae60589a03f,religion.group,resell,92,15,8,"Xiamen ChinaSource Internet Service Co., Ltd",11/06/2024 17:00,11/06/2026 17:00
 bceee31b-3ab8-404f-bfd9-bbaee63835f2,relish.group,resell,104,11,6,"Xiamen ChinaSource Internet Service Co., Ltd",05/11/2024 15:15,05/11/2026 15:15
@@ -5931,7 +5931,7 @@ c2ff70ef-6464-41a3-8ce0-2c4ea0ab63f8,roadsign.group,available,66,3,9,,,
 691f99e4-4226-462c-94a2-1bd50d8160c9,roast.group,resell,107,16,5,"Chengdu West Dimension Digital Technology Co., Ltd.",17/09/2025 02:53,17/09/2026 02:53
 e8e78f0a-bbc3-4f49-8be5-41d5c583036d,roasted.group,available,69,6,7,,,
 72fb330f-e98b-45a5-ad68-1833f815e783,robed.group,available,52,3,5,,,
-0476c701-0079-4455-883f-d4d9d5bdfb52,robotic.group,resell,72,20,7,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
+0476c701-0079-4455-883f-d4d9d5bdfb52,robotic.group,resell,72,98,7,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
 1109fe09-28a6-4c36-a62f-f4c934e347a6,robotlike.group,available,52,1,9,,,
 0b003b51-077b-43b9-a74f-9ea99830a8e7,rock.group,resell,58,26,4,"GoDaddy.com, LLC",08/06/2016 16:00,08/06/2026 16:00
 8ed17e38-766c-400a-8e01-3d99eb99eaae,rockmusic.group,available,,7,10,,,
@@ -6088,7 +6088,7 @@ eb808e24-f1fe-4b2c-8f7c-fb43492a1797,secondguess.group,available,60,2,12,,,
 928ec558-a95f-43aa-b497-4307892e955a,secondly.group,available,54,3,8,,,
 4def0fcb-6253-4b4f-ab46-60e30a1bd437,secured.group,resell,72,23,7,"Sav.com, LLC - 4",27/09/2025 15:15,27/09/2026 15:15
 65accbb9-fb9b-448a-bbad-899cd6c72dcf,security.group,resell,70,43,8,Porkbun LLC,24/09/2025 16:45,24/09/2026 16:45
-af54ac0b-52f1-40b1-a35e-fe99b587d606,sedative.group,available,76,1,8,,,
+af54ac0b-52f1-40b1-a35e-fe99b587d606,sedative.group,available,76,97,8,,,
 bd781783-e76c-4fb0-a717-63c194dd0f09,sedulous.group,available,50,3,8,,,
 293a2616-5c9c-4455-9c57-675aee030a93,seeabout.group,available,,1,9,,,
 4016e5e1-b1c2-4cf6-843b-9f652c96af07,seed.group,resell,62,35,4,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
@@ -6156,7 +6156,7 @@ e7a854f6-640b-4d97-98f0-782c8d1e0b62,seventeen.group,available,84,5,9,,,
 5fd8440f-efbf-4e34-b539-438eef48d45d,seventyfour.group,available,70,3,12,,,
 2f30dea1-5c98-45da-9c91-f2d3bb3fcecd,sevenup.group,available,72,2,8,,,
 89dbdbdc-fc50-4a17-a1b9-66de4df891a0,several.group,available,108,7,7,,,
-02064628-4113-45a6-ad0d-0af5415537d5,severe.group,available,56,3,6,,,
+02064628-4113-45a6-ad0d-0af5415537d5,severe.group,available,56,97,6,,,
 6f7f04db-ed87-4f54-8e88-c17f286926af,severely.group,available,51,1,8,,,
 2ddaa4e3-b44b-49aa-bb04-1d47babc72f6,sex.group,resell,98,45,3,"Global Domains International, Inc. DBA DomainCostClub.com",21/11/2025 15:15,21/11/2026 15:15
 06d9d4b5-bf6f-4f15-83b0-ba67ba04b41a,sexhair.group,available,,1,8,,,
@@ -6223,7 +6223,7 @@ dbcafc00-e1d9-454a-a697-6401db171fe6,showering.group,available,76,1,9,,,
 9a2ebbd5-84e9-4f3b-a1cd-c6446cfb62b6,showoff.group,available,58,8,8,,,
 365f464f-da1c-471f-a384-fef11c6cf9f6,showup.group,available,83,15,7,,,
 580ea91a-adeb-4a06-bdda-dfe1f8b6329c,Shrek.group,available,84,7,5,,,
-476e42f9-766d-451d-86d9-1648c0494e14,shrewd.group,available,66,5,6,,,
+476e42f9-766d-451d-86d9-1648c0494e14,shrewd.group,available,66,97,6,,,
 c850137b-2df6-4e8e-b79c-7c00441db294,shrub.group,available,62,7,5,,,
 d6680a97-76e2-4e29-9805-5e168383a9f5,shush.group,available,60,9,5,,,
 7725e122-d87a-4357-9b4a-511ce1ed295c,shy.group,available,64,15,3,,,
@@ -6506,14 +6506,14 @@ d267cce8-2d3e-4fe3-9e15-36276da3469a,StCharles.group,available,66,6,11,,,
 b60abe5d-1405-4e02-8319-67969dbab5a6,steel.group,resell,62,27,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/06/2016 16:00,08/06/2026 16:00
 9c47c39e-14b6-49b7-b5bd-53a8f397da55,steeltoeboot.group,available,70,1,14,,,
 94290958-1204-4c38-beae-d5863ee88bda,steer.group,resell,64,11,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/03/2020 15:35,03/03/2027 15:35
-0b45af51-d72b-4466-ace9-8f35f5d399ec,stellar.group,resell,78,36,7,"Chengdu West Dimension Digital Technology Co., Ltd.",18/10/2019 23:18,18/10/2026 23:18
+0b45af51-d72b-4466-ace9-8f35f5d399ec,stellar.group,resell,78,98,7,"Chengdu West Dimension Digital Technology Co., Ltd.",18/10/2019 23:18,18/10/2026 23:18
 77431f36-c8e7-4931-99b8-cc9fc4b4b302,stemless.group,available,46,1,8,,,
 bbd6843e-adaf-48b6-8107-2886d2819758,stepmother.group,available,62,2,10,,,
 f8d633e5-2633-4301-8828-a45defc59167,stepparent.group,available,64,1,10,,,
 7ee77877-ccb6-482f-95e2-4e8e85a2048f,steps.group,resell,70,19,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/08/2024 15:15,18/08/2026 15:15
 cd249947-d474-40ad-9aef-e4dfc3705f0a,stepson.group,available,70,2,7,,,
-b62ad9e7-7e85-49c8-81d1-b956f33ba079,sterile.group,available,68,5,7,,,
-d500ddf8-3ecc-4f31-aab1-5bed9f80940f,stern.group,resell,56,20,5,"Sav.com, LLC - 40",27/11/2024 15:15,27/11/2026 15:15
+b62ad9e7-7e85-49c8-81d1-b956f33ba079,sterile.group,available,68,97,7,,,
+d500ddf8-3ecc-4f31-aab1-5bed9f80940f,stern.group,resell,56,98,5,"Sav.com, LLC - 40",27/11/2024 15:15,27/11/2026 15:15
 ff61365e-5557-4364-a144-4a48dd4a40d2,stewart.group,resell,64,20,7,"Xiamen ChinaSource Internet Service Co., Ltd",08/06/2016 17:03,08/06/2026 17:03
 fa1d9ade-4695-4a91-bbec-88bf0885d36f,StFrancis.group,available,68,6,11,,,
 62ab179e-0962-40d3-ac91-40ef7a3bf08c,StHelena.group,available,66,3,10,,,
@@ -6589,7 +6589,7 @@ f847fcf2-77af-4ef3-8c0f-3ae561a32b0a,sub.group,resell,96,26,3,Porkbun LLC,26/09/
 2308ffde-95ba-4b1f-9335-9d8ccceb675e,subjective.group,available,64,8,10,,,
 d7c73700-9f32-4fb9-9935-f45c97f88175,subjects.group,available,,3,8,,,
 ce14f329-3f3c-48ea-b2a4-7d2e44fc6a8f,subscribe.group,resell,76,18,9,Dynadot Inc,16/03/2025 17:00,16/03/2026 17:00
-d1bdd628-f139-49cd-8e43-b6757dc67fa9,subsidiary.group,available,90,2,10,,,
+d1bdd628-f139-49cd-8e43-b6757dc67fa9,subsidiary.group,available,90,97,10,,,
 c7018323-50c6-47d7-a128-f865aa000dbc,substitute.group,available,90,97,10,,,
 9c0357e4-da1d-413c-a184-228b28835e11,substitution.group,available,,2,12,,,
 c9306ef2-4b27-420e-bb17-fd039b7b9bc8,subtle.group,resell,70,14,6,"Xiamen ChinaSource Internet Service Co., Ltd",28/11/2024 17:00,28/11/2025 17:00
@@ -6642,7 +6642,7 @@ a03d73a8-6baf-4f5a-9faf-64016b7dbe57,superuser.group,available,72,11,9,,,
 96b2d019-b525-43e9-8cdf-d90f329b3f12,supper.group,available,98,10,6,,,
 f00cd05a-2da0-4787-83b4-2547acacee29,supplied.group,available,,4,8,,,
 55408a09-4d5b-41c2-8db4-189403531e44,supported.group,available,70,6,9,,,
-2f6db086-b90b-49b6-9e34-1b2251b70600,supporter.group,resell,60,8,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2025 17:55,14/11/2026 17:55
+2f6db086-b90b-49b6-9e34-1b2251b70600,supporter.group,resell,60,97,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2025 17:55,14/11/2026 17:55
 6d9230d9-34e1-4d45-a802-d31b5cc88821,supportive.group,resell,70,6,10,"Chengdu West Dimension Digital Technology Co., Ltd.",15/11/2025 14:43,15/11/2026 14:43
 46392da8-8732-4363-ab73-ba367a6d9d9e,suppose.group,available,82,3,7,,,
 dcc9c157-a906-4f15-ab19-4a61ce3073d2,supposed.group,available,72,2,8,,,
@@ -6787,7 +6787,7 @@ dbced53b-a4d1-4776-9b85-acc5abd8b4f2,terminated.group,available,64,3,10,,,
 218dd1d6-74d5-44a9-874f-26c081d75730,terms.group,available,78,16,5,,,
 c76dc16a-bb7a-4403-b612-9ba9ce88075f,ternary.group,available,72,7,7,,,
 66ad53fb-660a-43c6-afac-201cb354cdaa,ternion.group,available,54,4,7,,,
-69a88c12-f245-4241-a6d9-4b27a8f42c25,terribly.group,available,58,2,8,,,
+69a88c12-f245-4241-a6d9-4b27a8f42c25,terribly.group,available,58,97,8,,,
 81129d88-d56a-4023-881b-923a0922a3c8,terrified.group,available,50,2,9,,,
 7f7b5bee-bbbc-4b9a-b22d-e991b0a86f62,terrifying.group,available,54,1,10,,,
 92d70cfd-e7f4-4529-a70b-d1c8ee35d25f,terror.group,resell,64,12,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2020 14:31,14/11/2025 14:31
@@ -7127,7 +7127,7 @@ d9b2a76c-0127-42dd-9318-6299f6333523,undynamic.group,available,50,1,9,,,
 ce1fffa5-0b6a-40b2-9393-873ceb02675d,unending.group,available,60,5,8,,,
 3c94dfb7-943e-4519-9575-21631cb11350,unexpected.group,available,88,7,10,,,
 c18f4d94-9ff7-4e9f-a239-3b8c32cfe2b4,unfair.group,available,78,10,6,,,
-2eec5e0b-a420-4118-b35b-d64e56a526e4,unfearing.group,available,66,1,9,,,
+2eec5e0b-a420-4118-b35b-d64e56a526e4,unfearing.group,available,66,97,9,,,
 9700b011-c7da-4e65-8a1a-2b9382b2b470,unfortunately.group,available,52,3,13,,,
 95fe64a0-2240-427e-9832-e633d8011ed9,unfounded.group,available,33,4,9,,,
 ae2fc422-cf3f-4617-b304-0dcb0785fdeb,unhandy.group,available,,2,7,,,
@@ -7286,7 +7286,7 @@ fdb6a5d5-1d30-40a7-b859-67fa0d74d100,wagon.group,resell,64,8,5,"Chengdu West Dim
 ac3298bc-a3c8-4367-b7c4-c9e6a040ff11,waitfor.group,available,,4,8,,,
 419decb1-aede-49c2-81ca-ea153c1c0c09,waitinglist.group,available,67,3,12,,,
 ed33e6cd-d923-402e-8996-f33194029c10,waitingroom.group,available,72,8,12,,,
-40b6a9d2-3c10-41c6-87c8-83dfd095c28f,wake.group,resell,72,22,4,"Chengdu West Dimension Digital Technology Co., Ltd.",12/05/2019 10:32,12/05/2026 10:32
+40b6a9d2-3c10-41c6-87c8-83dfd095c28f,wake.group,resell,72,98,4,"Chengdu West Dimension Digital Technology Co., Ltd.",12/05/2019 10:32,12/05/2026 10:32
 cc42b8c8-d723-4154-8b4b-3f1f7b934255,wakening.group,available,75,1,8,,,
 4ee43800-3d95-4bbe-9e27-0c4764124025,wakeup.group,resell,,23,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),20/08/2024 15:15,20/08/2026 15:15
 b2f5d350-c449-4a83-ab53-221cf1d64bf1,wakingup.group,available,75,3,9,,,
@@ -7317,7 +7317,7 @@ a0d23f5c-8356-4488-a987-9915d8a1f1fd,warfare.group,available,86,9,7,,,
 c1aeb3f3-4d02-4976-9289-2a7ea0b5990b,wasnt.group,available,62,2,5,,,
 21322d53-2853-4dff-b764-f31deec290fb,waste.group,resell,104,21,5,"Chengdu West Dimension Digital Technology Co., Ltd.",26/04/2019 23:19,26/04/2028 23:19
 56546a26-e670-45be-bdfc-6df38d611d54,wastebasket.group,available,86,2,11,,,
-0dc1b084-7afe-4837-b1c1-f0b37869d3cd,wasted.group,available,50,10,6,,,
+0dc1b084-7afe-4837-b1c1-f0b37869d3cd,wasted.group,available,50,98,6,,,
 49977b16-76fd-4534-961e-2c971186f077,wasteland.group,available,44,9,9,,,
 636e9c8f-e28a-42ba-8e76-95fe5210f9a8,watchful.group,available,64,6,8,,,
 b1d0974f-4504-4878-a936-4f4b77037d7c,watching.group,available,64,8,8,,,
@@ -7330,13 +7330,13 @@ bee9cd53-525a-4235-8709-929da74ccb05,waterless.group,available,44,7,9,,,
 49bafae1-5162-4b46-8c45-51eaa05e8909,wax.group,available,64,21,3,,,
 a1c3b65b-b167-413e-9750-3bcab2d5c40f,waytoo.group,available,,3,7,,,
 557f9a7d-0f02-4b45-8180-4cff7b5751f8,weak.group,available,62,7,4,,,
-9692d25c-5ad0-4bde-8d38-ea9a44f09301,weakened.group,available,52,1,8,,,
+9692d25c-5ad0-4bde-8d38-ea9a44f09301,weakened.group,available,52,97,8,,,
 99a8c39c-cb9b-46b3-9978-47b3d23c064b,weakest.group,available,,2,7,,,
 87fc5c6d-93f1-4dbf-807d-54b4f2a7faa7,wealthy.group,resell,78,16,7,"Chengdu West Dimension Digital Technology Co., Ltd.",23/04/2018 23:17,23/04/2026 23:17
 55d04902-898b-446f-8e80-8bb597faf25c,wear.group,resell,70,15,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),02/06/2018 18:05,02/06/2026 18:05
 cba97fc1-db85-4d81-80bd-d53e90681996,wearoff.group,available,,1,8,,,
 fbcf6412-359b-421a-9660-f19d318320be,wearthepants.group,available,,1,14,,,
-27e21f6c-d1ec-45fe-8891-8eb503988bb6,weary.group,available,64,5,5,,,
+27e21f6c-d1ec-45fe-8891-8eb503988bb6,weary.group,available,64,97,5,,,
 e0b86705-ecc6-4c41-91ee-d94bdf3997f8,weather.group,resell,118,32,7,"Chengdu West Dimension Digital Technology Co., Ltd.",06/11/2018 08:31,06/11/2026 08:31
 2ba53f4f-687a-46e0-9a31-86998bbb6315,weave.group,resell,94,24,5,"DNSPod, Inc.",08/07/2021 08:22,08/07/2026 08:22
 4902e883-70b6-49d5-b30e-90831a345dff,web.group,resell,72,50,3,GoDaddy Online Services Cayman Islands Ltd.,05/06/2016 16:00,05/06/2026 16:00
