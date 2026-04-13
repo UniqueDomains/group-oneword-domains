@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C997%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C999%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C000%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -11,10 +11,10 @@
 
 Daily-updated public extract of available and resale .group one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,997-row extract**, not the full live catalog.
+> **Important:** this repository is a **public 7,999-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **8,000 domains** on the canonical page below.
 
-**Public extract:** 7,997 rows · **Live catalog:** 8,000 domains
+**Public extract:** 7,999 rows · **Live catalog:** 8,000 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/group`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GROUP one-word domain
 
 ### Files
 
-- `group.csv` — public CSV extract (7,997 rows)
-- `group.json` — public JSON extract (7,997 rows)
+- `group.csv` — public CSV extract (7,999 rows)
+- `group.json` — public JSON extract (7,999 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -72,7 +72,7 @@ print(df.head())
 | check.group      | premium   | $41.25    | $41.25        | 76             | 35     | 5      | name.com                                                |
 | broken.group     | available | $10.99    | —             | 64             | 25     | 6      | name.com                                                |
 | mixing.group     | resell    | $10.99    | —             | 70             | 12     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| sad.group        | premium   | $123.75   | $123.75       | 72             | 27     | 3      | name.com                                                |
+| sad.group        | premium   | $123.75   | $123.75       | 72             | 26     | 3      | name.com                                                |
 | danger.group     | available | $10.99    | —             | 74             | 24     | 6      | name.com                                                |
 | mixture.group    | resell    | $10.99    | —             | 70             | 11     | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | moi.group        | premium   | $21.45    | $42.90        | 72             | 22     | 3      | namecheap                                               |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,997-row public sample | 8,000 live domains                               |
+| 7,999-row public sample | 8,000 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
