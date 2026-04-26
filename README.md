@@ -1,22 +1,22 @@
-# Available .GROUP One-Word Domains (8,000)
+# Available .GROUP One-Word Domains (10,231)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C999%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C000%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C231%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .group one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,999-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,000 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,231 domains** on the canonical page below.
 
-**Public extract:** 7,999 rows · **Live catalog:** 8,000 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,231 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/group`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GROUP one-word domain
 
 ### Files
 
-- `group.csv` — public CSV extract (7,999 rows)
-- `group.json` — public JSON extract (7,999 rows)
+- `group.csv` — public CSV extract (1,000 rows)
+- `group.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| monitoring.group | available | $10.99    | —             | 76             | 27     | 10     | name.com                                                |
-| summary.group    | resell    | $10.99    | $33.99        | 71             | 17     | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| review.group     | premium   | $128.70   | $128.70       | 94             | 39     | 6      | namecheap                                               |
-| ugly.group       | available | $10.99    | $33.99        | 96             | 26     | 4      | name.com                                                |
-| supervisor.group | resell    | $10.99    | —             | 72             | 13     | 10     | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| check.group      | premium   | $41.25    | $41.25        | 76             | 35     | 5      | name.com                                                |
-| broken.group     | available | $10.99    | —             | 64             | 25     | 6      | name.com                                                |
-| mixing.group     | resell    | $10.99    | —             | 70             | 12     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| sad.group        | premium   | $123.75   | $123.75       | 72             | 26     | 3      | name.com                                                |
-| danger.group     | available | $10.99    | —             | 74             | 24     | 6      | name.com                                                |
-| mixture.group    | resell    | $10.99    | —             | 70             | 11     | 7      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| moi.group        | premium   | $21.45    | $42.90        | 72             | 22     | 3      | namecheap                                               |
-| damn.group       | available | $10.99    | $33.99        | 140            | 23     | 4      | name.com                                                |
-| rocky.group      | resell    | —         | —             | 64             | 99     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| coy.group        | premium   | $123.75   | $123.75       | 64             | 13     | 3      | name.com                                                |
-| pepsi.group      | available | $10.99    | —             | 88             | 22     | 5      | name.com                                                |
-| wink.group       | resell    | —         | —             | 104            | 98     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| tobacco.group    | premium   | $21.45    | $42.90        | 56             | 12     | 7      | namecheap                                               |
-| pull.group       | available | $10.99    | —             | 74             | 21     | 4      | name.com                                                |
-| bound.group      | resell    | —         | —             | 64             | 98     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| bucketlist.group   | available | $10.99    | —             | 80             | 23     | 11     | name.com                                                  |
+| fleet.group        | resell    | —         | —             | 64             | 69     | 5      | Porkbun LLC                                               |
+| Jim.group          | premium   | $69.30    | $138.60       | 78             | 28     | 3      | namecheap                                                 |
+| Snapchat.group     | available | $35.98    | —             | 88             | 22     | 8      | namecheap                                                 |
+| online.group       | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| smiths.group       | premium   | $69.30    | $138.60       | 50             | 16     | 6      | namecheap                                                 |
+| CapeCod.group      | available | $35.98    | —             | 78             | 22     | 8      | namecheap                                                 |
+| design.group       | resell    | —         | —             | 90             | 49     | 6      | Porkbun LLC                                               |
+| plz.group          | premium   | $69.30    | $138.60       | 72             | 14     | 3      | namecheap                                                 |
+| bubbles.group      | available | $10.99    | —             | 72             | 21     | 7      | name.com                                                  |
+| tech.group         | resell    | —         | —             | 86             | 48     | 4      | Porkbun LLC                                               |
+| rules.group        | available | $10.99    | —             | 66             | 21     | 5      | name.com                                                  |
+| robots.group       | resell    | —         | —             | 62             | 47     | 6      | Porkbun LLC                                               |
+| computers.group    | available | $10.99    | —             | 68             | 19     | 9      | name.com                                                  |
+| water.group        | resell    | —         | —             | 92             | 45     | 5      | Porkbun LLC                                               |
+| lostandfound.group | available | $10.99    | —             | 64             | 19     | 14     | name.com                                                  |
+| bank.group         | resell    | —         | —             | 70             | 38     | 4      | Porkbun LLC                                               |
+| ratings.group      | available | $10.99    | —             | 53             | 19     | 7      | name.com                                                  |
+| WiFi.group         | resell    | —         | —             | 83             | 37     | 5      | DNSPod, Inc.                                              |
+| reallife.group     | available | $10.99    | —             | 68             | 17     | 9      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,999-row public sample | 8,000 live domains                               |
+| 1,000-row public sample | 10,231 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GROUP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GROUP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
