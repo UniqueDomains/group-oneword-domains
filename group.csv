@@ -7,6 +7,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 010ab8f6-ff68-41c5-aa93-3e1a92439d54,diehards.group,available,10.99,,48,3,8,name.com,,
 011207fd-360b-47b3-9fed-8d5c254f6237,reveals.group,available,10.99,,53,5,7,name.com,,
 012bf067-10d4-4c09-9994-8abf980f274c,elects.group,available,10.99,,56,4,6,name.com,,
+013a12a9-85d5-47c5-9fa9-1046e9d96ae9,hero.group,resell,,,76,44,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),16/02/2025 12:57,16/02/2027 12:57
 0141cf61-aaa3-435c-9e69-057dd4771336,orderarms.group,available,10.99,,70,1,10,name.com,,
 015d2cfc-913a-4690-a609-21380f81ffb9,clipart.group,available,10.99,,74,8,8,name.com,,
 01621116-c5d4-4b30-b41c-80b3e50628ad,commonland.group,available,10.99,,74,2,11,name.com,,
@@ -43,14 +44,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 047e764f-a46b-492a-aafd-327c3286f459,newest.group,available,10.99,,64,12,6,name.com,,
 0482c28a-7abb-4c3e-b72d-0b9e84ed2d67,drying.group,available,10.99,,68,6,6,name.com,,
 04a29421-6079-4b9d-ae05-a50e030db3db,paced.group,available,10.99,,49,5,5,name.com,,
-04b8d1fe-c479-4c5e-8719-971b4857eaab,doctor.group,resell,,,84,33,6,Dynadot Inc,25/09/2018 17:18,25/09/2026 17:18
+04b8d1fe-c479-4c5e-8719-971b4857eaab,doctor.group,resell,,,84,36,6,Dynadot Inc,25/09/2018 17:18,25/09/2026 17:18
 04cdc75b-5b6d-4479-84df-92346d9a7906,umbrellas.group,available,10.99,,59,9,9,name.com,,
 051ba093-efe5-4565-be4e-6416e53216ac,pennies.group,available,10.99,,56,6,7,name.com,,
 0544207c-a349-4695-903b-779b1f650f8f,officehours.group,available,10.99,,75,10,12,name.com,,
 0559a06a-e889-4a9b-8302-d32124635036,midafternoon.group,available,10.99,,80,1,12,name.com,,
 0587ab1d-0f58-4578-8ac8-67c177adb3a7,midbreakfast.group,available,10.99,,70,1,12,name.com,,
 0593f7bf-5d79-4264-9d38-ed7b8596e22a,sparkles.group,resell,,,62,15,8,Dynadot Inc,16/10/2025 13:11,16/10/2026 13:11
-059aa962-8850-4698-9522-a345c1f901ef,water.group,resell,,,92,45,5,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
+059aa962-8850-4698-9522-a345c1f901ef,water.group,resell,,,92,44,5,Porkbun LLC,08/06/2016 16:00,08/06/2026 16:00
 05a294b8-17c5-4892-ac79-0c36832dee29,counseled.group,available,10.99,,59,1,9,name.com,,
 05e3363b-320b-4aad-9c25-5e82cb1d78fe,clovers.group,available,10.99,,62,9,7,name.com,,
 06008129-05a9-453e-bab2-ccc8b3f5e19e,generalmeeting.group,available,10.99,,46,2,15,name.com,,
@@ -904,7 +905,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 547707e8-5630-4395-b31f-ce061851ea16,haveon.group,available,10.99,,76,2,7,name.com,,
 5479cc7e-b453-47a0-a506-356d19292cac,getupin.group,available,10.99,,74,1,9,name.com,,
 548785c5-26fb-4a2f-8478-764ab4b1cdfa,nailed.group,available,10.99,,58,6,6,name.com,,
-54b547b0-89d6-49ed-8786-520f85a82a4d,bank.group,resell,,,70,38,4,Porkbun LLC,21/08/2018 22:28,21/08/2026 22:28
+54b547b0-89d6-49ed-8786-520f85a82a4d,bank.group,resell,,,70,39,4,Porkbun LLC,21/08/2018 22:28,21/08/2026 22:28
 54b93d6a-bcc8-4d48-82dd-1db8ee7a8e83,reservation.group,resell,,,65,19,11,"Chengdu West Dimension Digital Technology Co., Ltd.",02/10/2017 02:00,02/10/2026 02:00
 54d1c690-8ceb-4ad3-88d1-173f804fa970,tunafish.group,available,10.99,,74,3,9,name.com,,
 54fb4c14-9570-4663-9cb8-e5f8eead7022,rioted.group,available,10.99,,44,1,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c71ec72-8826-4c07-bbf6-478dd0426ec1,Frenchparsley.group,available,35.98,,66,1,14,namecheap,,
 5c7ac56e-6f7f-4be0-915f-b25a00dc0ed5,propranolol.group,available,10.99,,68,5,11,name.com,,
 5c82a2aa-b2c4-429d-8b0c-e7275917b433,longfor.group,available,10.99,,70,3,8,name.com,,
-5cd379f6-eddd-4af5-b22a-49f4dd823a15,launchsite.group,available,10.99,,60,7,11,name.com,,
