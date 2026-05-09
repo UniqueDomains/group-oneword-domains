@@ -188,7 +188,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 118b5099-59ac-418b-b361-bce767eafb4f,intight.group,available,10.99,,50,1,8,name.com,,
 11a1ebf0-24f7-449f-a35d-01b1efeb6bbf,ambitiousness.group,available,10.99,,74,1,13,name.com,,
 11a90029-193c-4e3b-9b97-dfc9b3c9a72b,clearout.group,available,10.99,,70,5,9,name.com,,
-11d32c8c-5ee5-4a96-a4a5-d3c99d1ec8c7,tech.group,resell,,,86,48,4,Porkbun LLC,05/06/2016 16:00,05/06/2026 16:00
 1276f130-8796-4556-b8df-018b34e6d258,landscaping.group,available,10.99,,80,16,11,name.com,,
 12800f55-3d10-4dd4-a187-25d64f993dec,involvement.group,available,10.99,,74,6,11,name.com,,
 12ae7fd9-2a8c-48b7-9349-d48b861359ea,keepitmoving.group,available,10.99,,68,5,14,name.com,,
@@ -999,3 +998,4 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c71ec72-8826-4c07-bbf6-478dd0426ec1,Frenchparsley.group,available,35.98,,66,1,14,namecheap,,
 5c7ac56e-6f7f-4be0-915f-b25a00dc0ed5,propranolol.group,available,10.99,,68,5,11,name.com,,
 5c82a2aa-b2c4-429d-8b0c-e7275917b433,longfor.group,available,10.99,,70,3,8,name.com,,
+5cd379f6-eddd-4af5-b22a-49f4dd823a15,launchsite.group,available,10.99,,60,7,11,name.com,,
