@@ -433,6 +433,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27e8fe8a-df9c-4434-912f-10eab6441c19,goamiss.group,available,10.99,,68,0,8,name.com,,
 287a84c6-8441-485f-9b7b-326377710aaf,costcontrol.group,available,10.99,,52,4,12,name.com,,
 287d52be-b6e3-4027-ba2e-cf424ee63cee,pantihose.group,available,10.99,,70,2,9,name.com,,
+287f2f19-5fda-4816-ac89-9a225fa365b7,everything.group,premium,,,68,47,10,,,
 2884e79c-3da9-4c8c-805a-e87732b2cbb2,creates.group,available,10.99,,60,13,7,name.com,,
 289e9b3d-db2a-4fc0-aadd-6d5cd8d69258,getover.group,available,10.99,,79,4,8,name.com,,
 28a7237d-8387-48dd-8c32-b26604ed79b4,notsomuch.group,available,10.99,,46,1,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c71ec72-8826-4c07-bbf6-478dd0426ec1,Frenchparsley.group,available,35.98,,66,1,14,namecheap,,
 5c7ac56e-6f7f-4be0-915f-b25a00dc0ed5,propranolol.group,available,10.99,,68,5,11,name.com,,
 5c82a2aa-b2c4-429d-8b0c-e7275917b433,longfor.group,available,10.99,,70,3,8,name.com,,
-5cd379f6-eddd-4af5-b22a-49f4dd823a15,launchsite.group,available,10.99,,60,7,11,name.com,,

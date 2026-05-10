@@ -72,6 +72,7 @@ print(df.head())
 | plz.group          | premium   | $69.30    | $138.60       | 72             | 14     | 3      | namecheap                                                 |
 | CapeCod.group      | available | $35.98    | —             | 78             | 22     | 8      | namecheap                                                 |
 | design.group       | resell    | —         | —             | 90             | 49     | 6      | Porkbun LLC                                               |
+| everything.group   | premium   | —         | —             | 68             | 47     | 10     | —                                                         |
 | bubbles.group      | available | $10.99    | —             | 72             | 21     | 7      | name.com                                                  |
 | water.group        | resell    | —         | —             | 92             | 44     | 5      | Porkbun LLC                                               |
 | rules.group        | available | $10.99    | —             | 66             | 21     | 5      | name.com                                                  |
@@ -83,7 +84,6 @@ print(df.head())
 | landscaping.group  | available | $10.99    | —             | 80             | 16     | 11     | name.com                                                  |
 | notes.group        | resell    | —         | —             | 73             | 37     | 5      | Dynadot Inc                                               |
 | reps.group         | available | $10.99    | —             | 73             | 16     | 4      | name.com                                                  |
-| doctor.group       | resell    | —         | —             | 84             | 36     | 6      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
