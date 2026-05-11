@@ -901,6 +901,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53ee6be3-2085-43e1-855f-4bcceff27c40,splints.group,available,10.99,,63,1,7,name.com,,
 5404d802-24ef-4c50-82c4-978d95446935,takes.group,available,10.99,,55,10,5,name.com,,
 5419fdaa-489a-459c-a579-da38d2f29492,plumbers.group,resell,,,50,14,8,"Chengdu West Dimension Digital Technology Co., Ltd.",17/09/2025 06:44,17/09/2026 06:44
+542fe679-34a3-49bc-9889-af840855c384,drivethru.group,available,10.99,,76,10,10,name.com,,
 5435f734-0f52-4af5-b6b6-f364a4722e23,finaltest.group,available,10.99,,58,2,10,name.com,,
 547707e8-5630-4395-b31f-ce061851ea16,haveon.group,available,10.99,,76,2,7,name.com,,
 5479cc7e-b453-47a0-a506-356d19292cac,getupin.group,available,10.99,,74,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c61c50a-ac25-4dce-b351-82401bb35573,slipby.group,available,10.99,,64,1,7,name.com,,
 5c71ec72-8826-4c07-bbf6-478dd0426ec1,Frenchparsley.group,available,35.98,,66,1,14,namecheap,,
 5c7ac56e-6f7f-4be0-915f-b25a00dc0ed5,propranolol.group,available,10.99,,68,5,11,name.com,,
-5c82a2aa-b2c4-429d-8b0c-e7275917b433,longfor.group,available,10.99,,70,3,8,name.com,,
