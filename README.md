@@ -64,10 +64,10 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| bucketlist.group   | available | $10.99    | —             | 80             | 23     | 11     | name.com                                                  |
+| Snapchat.group     | available | $35.98    | —             | 88             | 23     | 8      | namecheap                                                 |
 | fleet.group        | resell    | —         | —             | 64             | 68     | 5      | Porkbun LLC                                               |
 | smiths.group       | premium   | $69.30    | $138.60       | 50             | 16     | 6      | namecheap                                                 |
-| Snapchat.group     | available | $35.98    | —             | 88             | 22     | 8      | namecheap                                                 |
+| bucketlist.group   | available | $10.99    | —             | 80             | 22     | 11     | name.com                                                  |
 | online.group       | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 | plz.group          | premium   | $69.30    | $138.60       | 72             | 14     | 3      | namecheap                                                 |
 | CapeCod.group      | available | $35.98    | —             | 78             | 22     | 8      | namecheap                                                 |
