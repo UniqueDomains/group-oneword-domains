@@ -488,7 +488,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2d739a2f-d603-4ff1-b24c-18ef5cb2ddcc,divein.group,available,10.99,,76,9,7,name.com,,
 2d7fc8b9-8539-4868-84ce-6c8a3ca9ab10,serves.group,available,10.99,,54,7,6,name.com,,
 2d9042eb-9809-41ed-a841-679b142e1b81,whom.group,resell,,,54,12,4,Dynadot Inc,27/11/2025 10:17,27/11/2026 10:17
-2db6f84f-5798-427f-b0d7-29fae966dd40,postoffice.group,available,10.99,,80,14,11,name.com,,
+2db6f84f-5798-427f-b0d7-29fae966dd40,postoffice.group,available,10.99,,80,15,11,name.com,,
 2dbb1d0b-1a63-4bce-8bf1-d41665237452,whips.group,available,10.99,,52,7,5,name.com,,
 2de83e63-3805-44ba-8244-568e57464228,getsomeair.group,available,10.99,,77,1,12,name.com,,
 2dea49a4-b30f-44be-a089-ca9cfef85fa9,decidedness.group,available,10.99,,74,1,11,name.com,,
@@ -774,7 +774,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 471ac9f7-4edc-4536-ad4b-d97658a02103,landedproperty.group,available,10.99,,42,1,15,name.com,,
 4720e7af-bbdf-46b3-b444-c01720eeb5c4,gowiththewind.group,available,10.99,,74,1,16,name.com,,
 4721e3e2-5324-48f9-ae4e-95bf8a51400d,daydreamed.group,available,10.99,,62,1,10,name.com,,
-4727b85a-5735-4921-b156-69592233f776,prescription.group,resell,,,70,14,12,Dynadot Inc,13/02/2026 17:49,13/02/2027 17:49
+4727b85a-5735-4921-b156-69592233f776,prescription.group,resell,,,70,15,12,Dynadot Inc,13/02/2026 17:49,13/02/2027 17:49
 4728c670-12b7-45f5-b383-0460e0471ed3,collections.group,available,10.99,,48,14,11,name.com,,
 473d0e0f-de44-462b-bf1a-eff2e0f8cfa8,arrivingat.group,available,10.99,,50,1,11,name.com,,
 473e3068-1cbd-4fa1-a244-0de7862b87bf,estimates.group,available,10.99,,50,7,9,name.com,,
