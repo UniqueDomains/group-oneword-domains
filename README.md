@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .group one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,744 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,744 domains · **Median ask:** $12.85 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,744 domains · **Median ask:** $13.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/group`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/group`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GROUP one-word domain
 
 ### Files
 
-- `group.csv` — public CSV extract (1,000 rows)
-- `group.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `group.csv`, public CSV extract (1,000 rows)
+- `group.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| Snapchat.group     | available | $35.98    | —             | 88             | 23     | 8      | namecheap                                                 |
-| fleet.group        | resell    | —         | —             | 64             | 68     | 5      | Porkbun LLC                                               |
-| smiths.group       | premium   | $69.30    | $138.60       | 50             | 16     | 6      | namecheap                                                 |
-| bucketlist.group   | available | $10.99    | —             | 80             | 22     | 11     | name.com                                                  |
-| online.group       | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| plz.group          | premium   | $69.30    | $138.60       | 72             | 15     | 3      | namecheap                                                 |
-| CapeCod.group      | available | $35.98    | —             | 78             | 22     | 8      | namecheap                                                 |
-| design.group       | resell    | —         | —             | 90             | 49     | 6      | Porkbun LLC                                               |
-| everything.group   | premium   | —         | —             | 68             | 47     | 10     | —                                                         |
-| bubbles.group      | available | $10.99    | —             | 72             | 21     | 7      | name.com                                                  |
-| water.group        | resell    | —         | —             | 92             | 44     | 5      | Porkbun LLC                                               |
-| rules.group        | available | $10.99    | —             | 66             | 21     | 5      | name.com                                                  |
-| hero.group         | resell    | —         | —             | 76             | 44     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
-| ratings.group      | available | $10.99    | —             | 53             | 19     | 7      | name.com                                                  |
-| bank.group         | resell    | —         | —             | 70             | 39     | 4      | Porkbun LLC                                               |
-| reservations.group | available | $10.99    | —             | 50             | 17     | 12     | name.com                                                  |
-| WiFi.group         | resell    | —         | —             | 83             | 37     | 5      | DNSPod, Inc.                                              |
-| landscaping.group  | available | $10.99    | —             | 80             | 16     | 11     | name.com                                                  |
-| notes.group        | resell    | —         | —             | 73             | 37     | 5      | Dynadot Inc                                               |
-| reps.group         | available | $10.99    | —             | 73             | 16     | 4      | name.com                                                  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| pure.group       | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| special.group    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                        |
+| smooth.group     | resell    | —         | —             | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| present.group    | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| bore.group       | available | $10.99    | —             | high           | low    | 4      | name.com                                                |
+| atop.group       | resell    | $10.99    | —             | medium         | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| BJP.group        | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                               |
+| cane.group       | available | $10.99    | —             | medium         | low    | 4      | name.com                                                |
+| monumental.group | resell    | $10.99    | —             | medium         | low    | 10     | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| btw.group        | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
+| html.group       | available | $10.99    | —             | high           | low    | 4      | name.com                                                |
+| reasonable.group | resell    | $10.99    | —             | high           | low    | 10     | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| cot.group        | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
+| Leia.group       | available | $10.99    | —             | high           | low    | 4      | name.com                                                |
+| supervisor.group | resell    | $10.99    | —             | high           | low    | 10     | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| dye.group        | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                               |
+| nyse.group       | available | $10.99    | —             | medium         | low    | 4      | name.com                                                |
+| bot.group        | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| ear.group        | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
+| seem.group       | available | $10.99    | —             | high           | low    | 4      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are defined by a single constraint: the .group extension. That produces a broad mix of one-word names, descriptive terms, and longer phrase-based options such as overall.group, graph.group, object.group, and happybirthday.group. The selection is useful for buyers who want a group-oriented identity, community framing, or a collective brand concept tied directly to the extension. When comparing these domains, focus on how naturally the word fits before “.group,” whether the full name is easy to say and remember, and whether the asking price is justified for that level of clarity. Median ask across this set is 12.85.
+This list covers one-word .group domain names built from short, everyday words such as half, just, okay, feel, great, correct, damn, sorry, and content. With a median ask near $13, this selection spans thousands of options across a single TLD, making it straightforward to compare price against brandability. Updated daily, it reflects current availability so you can shortlist names quickly whether you're evaluating domains for a portfolio or a new project.
 
-- All names in this selection use the .group extension
-- Includes one-word, descriptive, and phrase-based domains
-- Median ask across the set is 12.85
-- Check wording, memorability, and trademark exposure
+- 10,744 one-word .group domain names in this selection
+- Median ask near $13 across the set
+- Everyday words: half, just, okay, feel, great, content
+- Updated daily to reflect current availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GROUP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GROUP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
