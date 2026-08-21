@@ -187,7 +187,7 @@ f69deec4-c495-4ddc-9865-7c06bad3c31b,island.group,resell,,,high,low,6,PDR Ltd. d
 bce7928c-7019-41f8-bd67-0e6a9a444251,legislative.group,available,10.99,,high,low,11,name.com,,
 b91b81b3-443a-45c1-830f-fa662f5029c7,abiding.group,available,10.99,33.99,high,low,7,name.com,,
 4b31ceab-fc91-4631-a08d-fdfccac3017d,pubichair.group,available,10.99,,low,low,10,name.com,,
-27676cd1-9e4d-46a3-aab2-684fbaa33d17,restrict.group,available,10.99,,high,low,8,name.com,,
+27676cd1-9e4d-46a3-aab2-684fbaa33d17,restrict.group,available,10.99,33.99,low,low,8,name.com,,
 1edf4401-9de7-4c46-852c-7e5b2077f08a,detecting.group,available,10.99,,medium,low,9,name.com,,
 661b727e-6f33-4918-8a1c-0cbc5be08a0d,bastardly.group,available,10.99,33.99,low,low,9,name.com,,
 f2e6840b-2133-4401-b09c-6556fbb6310a,prenatal.group,available,10.99,,high,low,8,name.com,,
