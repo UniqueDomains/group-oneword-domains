@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .group one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,097 domains · **Median ask:** $12.84 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/group`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,10 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| pure.group       | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| special.group    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                        |
+| smooth.group     | resell    | —         | —             | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| present.group    | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd            |
 | alky.group       | available | $10.99    | $33.99        | low            | low    | 4      | name.com                                                |
 | atop.group       | resell    | $10.99    | —             | medium         | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | BJP.group        | premium   | $140      | $280          | medium         | low    | 3      | namecheap                                               |
@@ -80,10 +84,6 @@ print(df.head())
 | bot.group        | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | ear.group        | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
 | clxv.group       | available | $10.99    | $33.99        | low            | low    | 4      | name.com                                                |
-| dad.group        | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| fee.group        | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
-| cxlv.group       | available | $10.99    | $33.99        | low            | low    | 4      | name.com                                                |
-| gym.group        | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GROUP One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GROUP One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
